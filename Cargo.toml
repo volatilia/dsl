@@ -1,5 +1,8 @@
 [workspace]
 members = [
     "dsl_runtime",
-    "dsl_main"
+    "dsl_macro",
+    "dsl_main",
+    "sqlparser",
+    "sqlparser_derive"
 ]
